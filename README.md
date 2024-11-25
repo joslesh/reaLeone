@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reaLeone
+- 👋 Hi, I’m @JosLesh
 - 👀 I’m interested in learning about coding in python, C++, Rust, and R. Also learning data analytics and bioinformatics techniques.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on any data analytics or python projects!
